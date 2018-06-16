@@ -1,0 +1,119 @@
+/*** Start Defualt Theme ***/
+
+
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+    background-color: #FB0397;
+
+}
+
+.price_table .price_box
+{
+	
+	border-left: 1px solid #FB0397;
+	border-right:1px solid #FB0397;
+	
+}
+
+
+.price_table .price_box:hover p
+{
+	
+	border: 2px solid #FB0397;
+
+}
+
+.dropdown-menu > li > a:hover
+{
+	background-color: #FB0397;
+
+}
+
+.navbar > .container .navbar-brand,
+ .navbar > .container-fluid .navbar-brand
+ {
+ 	color: #FB0397;
+ }
+ .dropdown-menu
+ {
+ 	
+ 	border-top:2px solid #FB0397;
+ }
+ .dropdown-menu .divider
+{
+	background-color:#FB0397;
+}
+
+.carousel-indicators li
+{
+
+	background-color:#FB0397;
+}
+.footer h3
+{
+	color:#FB0397;
+;
+} 
+
+.footer .copyright span
+{
+	color:#FB0397;
+}
+.footer .copyright:hover
+{
+	color: #FB0397;
+}
+
+.option_box .color_option
+{
+	
+	border:3px solid #FB0397;
+	
+}
+
+.option_box .gear_check
+{
+	
+	background: #FB0397;
+	
+}
+
+.Testimonials .carousel-indicators li.active
+{
+	
+	border: 2px solid #FB0397; 
+}
+
+.Testimonials span
+{
+	font-size:25px;
+	font-weight: bold;
+	color:#FB0397; 
+} 
+.feat span.glyphicon
+{
+	color:#FB0397 ;
+}
+.footer h3
+{
+	color:#FB0397;
+	margin: 25px 0 20px;
+	letter-spacing: 1px;
+} 
+.footer .copyright:hover
+{
+	color: #FB0397;
+}
+.statistics hr
+ {
+ 	background-color:#FB0397;
+ 	
+ }
+
+.scroll-top
+{
+	background-color: #FB0397
+}
+/*** End Defualt Theme ***/
